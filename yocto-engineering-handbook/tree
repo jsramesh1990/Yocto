@@ -1,0 +1,39 @@
+yocto-engineering-handbook/
+├── README.md
+├── docs/
+│   ├── debugging/
+│   │   ├── sstate-diffsigs.md
+│   │   ├── task-hash-debug.md
+│   │   └── runtime-issues.md
+│   ├── production/
+│   │   ├── secure-boot.md
+│   │   ├── ota-rauc-mender.md
+│   │   └── spdx-compliance.md
+│   └── performance/
+│       ├── ccache-sstate-mirrors.md
+│       └── distcc-distrib-builds.md
+├── examples/
+│   ├── hello-world-recipe/
+│   │   └── helloworld_1.0.bb
+│   ├── kernel-module/
+│   │   └── mydriver_0.1.bb
+│   ├── custom-image/
+│   │   └── custom-image.bb
+│   ├── docker-build-env/
+│   │   └── Dockerfile
+│   └── ci-pipeline/
+│       └── .gitlab-ci.yml
+├── diagrams/
+│   ├── yocto-arch.png (placeholder)
+│   ├── layer-deps.png
+│   └── boot-flow.png
+├── interviews/
+│   ├── top-50-yocto-questions.md
+│   ├── bsp-engineer-questions.md
+│   └── systemd-boot-integration.md
+├── cheatsheets/
+│   ├── bitbake-quick-ref.md
+│   ├── variables-master.md
+│   └── common-fixes.md
+└── .github/
+    └── badges.md
