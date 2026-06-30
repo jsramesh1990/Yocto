@@ -8,7 +8,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/jsramesh1990/Yocto?style=social)
 
-### **The Ultimate One-Stop Reference for Yocto Project Development** 🚀
+### **The Ultimate One-Stop Reference for Yocto Project Development** 
 
 [📖 Documentation](#) • [🛠️ Quick Start](#) • [🎯 Interview Prep](#) • [🐛 Debugging](#)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [What is Yocto?](#-what-is-yocto)
 - [Why Use Yocto?](#-why-use-yocto)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 What is Yocto?
+##  What is Yocto?
 
 ### Definitions at a Glance
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 💡 Why Use Yocto?
+##  Why Use Yocto?
 
 | Challenge | How Yocto Solves It |
 |-----------|---------------------|
@@ -63,11 +63,11 @@
 | **Corporate compliance** | Generates license manifests, SPDX files, and source archives |
 | **Cross-compilation complexity** | Built-in cross-toolchain generation |
 
-> **💡 Use Yocto when:** You need a production-grade, customizable, minimal Linux for embedded devices (IoT gateways, automotive, medical, industrial).
+> ** Use Yocto when:** You need a production-grade, customizable, minimal Linux for embedded devices (IoT gateways, automotive, medical, industrial).
 
 ---
 
-## 🏗️ Core Components
+##  Core Components
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 Block Diagram
+##  Block Diagram
 
 ```
                               ┌─────────────────┐
@@ -127,7 +127,7 @@
 
 ---
 
-## ⚙️ Working Flow
+##  Working Flow
 
 ### Step-by-Step Build Process
 
@@ -171,7 +171,7 @@ bitbake busybox
 
 ---
 
-## 📝 Command Explanations (Detailed)
+##  Command Explanations (Detailed)
 
 ### BitBake Commands - Full Explanation
 
@@ -284,7 +284,7 @@ runqemu qemux86-64 -- -m 1024
 
 ---
 
-## 🚀 Yocto for Unknown Boards from Scratch
+##  Yocto for Unknown Boards from Scratch
 
 ### Complete Guide to Porting Yocto to a New/Unknown Board
 
