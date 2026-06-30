@@ -10,7 +10,7 @@
 
 ### **The Ultimate One-Stop Reference for Yocto Project Development** 
 
-[📖 Documentation](#) • [🛠️ Quick Start](#) • [🎯 Interview Prep](#) • [🐛 Debugging](#)
+[ Documentation](#) • [ Quick Start](#) • [ Interview Prep](#) • [ Debugging](#)
 
 </div>
 
