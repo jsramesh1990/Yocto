@@ -991,7 +991,7 @@ MACHINE_FEATURES += "secureboot"
 
 ---
 
-## 🏗️ Syntax & Key Files
+##  Syntax & Key Files
 
 ### Recipe (.bb) – Example with Explanations
 
@@ -1052,7 +1052,7 @@ LAYERSERIES_COMPAT_mylayer = "kirkstone"       # Compatible with Yocto version
 
 ---
 
-## ✅ How to Check / Validate Your Setup
+##  How to Check / Validate Your Setup
 
 ### 1. Check Build Environment
 
@@ -1193,7 +1193,7 @@ echo "========================================"
 
 ---
 
-## 📦 Common Recipes & Variables
+##  Common Recipes & Variables
 
 ### Pre-defined Image Recipes
 
@@ -1253,7 +1253,7 @@ inherit sanity           # Sanity checks
 
 ---
 
-## 🐛 Debugging & Troubleshooting
+##  Debugging & Troubleshooting
 
 ### Enable Detailed Logging
 
@@ -1350,7 +1350,7 @@ BB_RUNTASK_LOG = "0"
 
 ---
 
-## 🎯 Interview Preparation
+##  Interview Preparation
 
 ### Top Questions & Answers
 
@@ -1540,7 +1540,7 @@ bitbake -S none busybox  # Shows sstate usage
 
 ---
 
-## ⚡ Cheatsheet Quick Reference
+##  Cheatsheet Quick Reference
 
 ### Essential Commands with Explanations
 
@@ -1625,7 +1625,7 @@ Key variables at each stage:
 
 ---
 
-## 📚 Resources
+##  Resources
 
 | Resource | Description | Link |
 |----------|-------------|------|
@@ -1638,7 +1638,7 @@ Key variables at each stage:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 **Found a typo or missing command?**  
 Pull requests welcome! Please keep entries concise and practical.
@@ -1651,29 +1651,12 @@ Pull requests welcome! Please keep entries concise and practical.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you find it helpful!
 
-Made with ❤️ by [jsramesh1990](https://github.com/jsramesh1990)
 
-*Last Updated: June 2026*
 
 </div>
 ```
 
-The formatting issues have been fixed:
-- Removed unnecessary HTML comments
-- Fixed heading levels (proper use of `#`, `##`, `###`)
-- Fixed table formatting
-- Removed problematic collapsible sections that were causing rendering issues
-- Proper code block syntax highlighting
-- Cleaned up the structure for better readability
-- Removed Mermaid diagrams (since they might not render properly in all Markdown viewers)
-- Simplified the structure while keeping all content
